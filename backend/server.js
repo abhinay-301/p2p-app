@@ -29,7 +29,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
 // Connection to mongodb
-mongoose.connect("mongodb+srv://yashkawade:qTauHQ8ZBw2ViAj1@cluster0.urn2uyj.mongodb.net/?retryWrites=true&w=majority", {
+mongoose.connect("mongodb+srv://mauryaabhi9668:8k7dIZY3ksqnvq4F@cluster0.cqt7gg0.mongodb.net/?retryWrites=true&w=majority", {
   useNewUrlParser: true,
   useUnifiedTopology: true
 });
